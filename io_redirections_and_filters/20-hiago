@@ -1,2 +1,2 @@
 #!/bin/bash
-tm 'C' | tm 'c'
+tr 'C' | tr 'c'
