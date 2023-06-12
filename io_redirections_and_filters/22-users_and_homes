@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -dn ../
+ls -d | cut -d -f1
