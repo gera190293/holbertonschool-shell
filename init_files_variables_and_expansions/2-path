@@ -1,2 +1,2 @@
 #!/bin/bash
-printf $path '/action'
+$path printf '/action'
