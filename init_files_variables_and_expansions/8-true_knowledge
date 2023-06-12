@@ -1,2 +1,2 @@
 #!/bin/bash
-echo num='expr $num(printenv TRUEKNOWLEDGE) + 128
+echo num='expr $num printenv TRUEKNOWLEDGE + 128'
