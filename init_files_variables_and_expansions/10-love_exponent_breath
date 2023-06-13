@@ -1,2 +1,2 @@
 #!/bin/bash
-BREATH=printenv $BREATH | LOVE=printenv $LOVE | expr $BREATH ** $LOVE
+echo $((BREATH ** LOVE))
