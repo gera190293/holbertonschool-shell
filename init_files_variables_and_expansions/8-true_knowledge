@@ -1,2 +1,2 @@
 #!/bin/bash
-num=$(echo $(printenv TRUEKNOWLEDGE) + 128 | bc)
+num='expr (printenv TRUEKNOWLEDGE) + 128'
