@@ -1,0 +1,2 @@
+#!/bin/bash
+POWER=printenv POWER | DIVIDE=printenv DIVIDE | expr POWER / DIVIDE
