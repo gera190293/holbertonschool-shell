@@ -1,2 +1,2 @@
 #!/bin/bash
-num1=(printenv TRUEKNOWLEDGE) | expr 128 + $num1
+num1=(printenv TRUEKNOWLEDGE) | echo $num1
