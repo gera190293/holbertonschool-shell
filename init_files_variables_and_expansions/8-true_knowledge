@@ -1,2 +1,2 @@
 #!/bin/bash
-num1=(printenv TRUEKNOWLEDGE) | echo $num1
+printenv TRUEKNOWLEDGE
