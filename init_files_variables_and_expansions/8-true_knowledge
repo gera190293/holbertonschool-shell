@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE=num1 | expr $num1 + 128
+export TRUEKNOWLEDGE=num1 | expr 128 + $num1
