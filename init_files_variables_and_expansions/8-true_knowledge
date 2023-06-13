@@ -1,2 +1,2 @@
 #!/bin/bash
-echo num='expr $num printenv TRUEKNOWLEDGE + 128'
+num='expr printenvTRUEKNOWLEDGE + 128' | cat -b
